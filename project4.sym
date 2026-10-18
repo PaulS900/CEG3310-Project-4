@@ -2,4 +2,13 @@
 // Scope level 0:
 //	Symbol Name       Page Address
 //	----------------  ------------
+//	SUMOFSQUARES      3009
+//	SUMLOOP           3011
+//	SUMDONE           3028
+//	SQUARE            302F
+//	SQUARELOOP        3036
+//	SQUAREDONE        303A
+//	STACKBASE         303F
+//	ARRAYSIZE         3040
+//	ARRAYDATA         3041
 
